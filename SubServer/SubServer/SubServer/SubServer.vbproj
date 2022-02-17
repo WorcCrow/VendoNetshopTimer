@@ -1,0 +1,356 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{7459E9B3-E6E0-4B7C-80A7-E7B3F92CD98F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>SubServer.My.MyApplication</StartupObject>
+    <RootNamespace>SubServer</RootNamespace>
+    <AssemblyName>SubServer</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>SubServer.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>SubServer.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Icon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System">
+      <Private>False</Private>
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="System.Drawing">
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Windows.Forms">
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Xml">
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Core">
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+      <Private>False</Private>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ClientData.vb" />
+    <Compile Include="Configuration.vb" />
+    <Compile Include="ConfirmPassword.Designer.vb">
+      <DependentUpon>ConfirmPassword.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ConfirmPassword.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddTime2.Designer.vb">
+      <DependentUpon>AddTime2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AddTime2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditClient.Designer.vb">
+      <DependentUpon>EditClient.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EditClient.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Encryption.vb" />
+    <Compile Include="GlobalDeclaration.vb" />
+    <Compile Include="LicenseCode.Designer.vb">
+      <DependentUpon>LicenseCode.vb</DependentUpon>
+    </Compile>
+    <Compile Include="LicenseCode.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LicenseModule.vb" />
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="NetworkConnection.vb" />
+    <Compile Include="RateData.vb" />
+    <Compile Include="RateForm.Designer.vb">
+      <DependentUpon>RateForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RateForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ActivateForm.Designer.vb">
+      <DependentUpon>ActivateForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ActivateForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Report.Designer.vb">
+      <DependentUpon>Report.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Serialize.vb" />
+    <Compile Include="SerialPortModule.vb" />
+    <Compile Include="SettingForm.Designer.vb">
+      <DependentUpon>SettingForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SettingForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SpecialFunction.vb" />
+    <Compile Include="SubServerUI.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SubServerUI.Designer.vb">
+      <DependentUpon>SubServerUI.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="ConfirmPassword.resx">
+      <DependentUpon>ConfirmPassword.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddTime2.resx">
+      <DependentUpon>AddTime2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditClient.resx">
+      <DependentUpon>EditClient.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LicenseCode.resx">
+      <DependentUpon>LicenseCode.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RateForm.resx">
+      <DependentUpon>RateForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ActivateForm.resx">
+      <DependentUpon>ActivateForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report.resx">
+      <DependentUpon>Report.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SettingForm.resx">
+      <DependentUpon>SettingForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SubServerUI.resx">
+      <DependentUpon>SubServerUI.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="My Project\app.manifest" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\DataSources\AddTime.datasource" />
+    <None Include="My Project\DataSources\AddTime2.datasource" />
+    <None Include="My Project\DataSources\ClientData.ClientDataSent.datasource" />
+    <None Include="My Project\DataSources\ClientData.ClientInfo.datasource" />
+    <None Include="My Project\DataSources\ClientData.datasource" />
+    <None Include="My Project\DataSources\ConfirmPassword.datasource" />
+    <None Include="My Project\DataSources\EditClient.datasource" />
+    <None Include="My Project\DataSources\FadedForm.datasource" />
+    <None Include="My Project\DataSources\Report.datasource" />
+    <None Include="My Project\DataSources\SettingForm.datasource" />
+    <None Include="My Project\DataSources\SubServer.My.MyApplication.datasource" />
+    <None Include="My Project\DataSources\SubServer.My.MySettings.datasource" />
+    <None Include="My Project\DataSources\SubServerUI.datasource" />
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Image.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\background %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CloseEnter.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CloseLeave.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\selectitem.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sci-fi.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\navbar01.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\navbar02.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Coin.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0,Profile=Client">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 Client Profile %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Button.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fButtonDark.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fButtonLight.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\navbar2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\background.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cbLeft.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cbRight.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CloseEnter1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CloseLeave1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\navbar00.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\StatusBar.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MouseSelect.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Icon.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LoginWhite.png" />
+    <None Include="Resources\LoginBlack.png" />
+    <None Include="bin\Debug\Media\FormBack2.jpg" />
+    <None Include="bin\Debug\Media\TopNavBar.JPG" />
+    <Content Include="Icon.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,9 @@
+When will the Activation form Show
+	Online:
+		If the system detect that the configuration file does'nt have license key on it.
+	
+	Offline:
+		If the license code on configuation file doesnt match with the license code on the license file. then prompt the license code doesnt match, show enter a valid key.
+		
+	
+	

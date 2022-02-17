@@ -1,0 +1,130 @@
+D:\VisualBasicProject\Centralize\ClientApp\ClientApp\bin\Debug\ClientApp.exe.config
+D:\VisualBasicProject\Centralize\ClientApp\ClientApp\obj\Debug\Interop.WMPLib.dll
+D:\VisualBasicProject\Centralize\ClientApp\ClientApp\obj\Debug\AxInterop.WMPLib.dll
+D:\VisualBasicProject\Centralize\ClientApp\ClientApp\obj\Debug\ClientApp.vbproj.ResolveComReference.cache
+D:\VisualBasicProject\Centralize\ClientApp\ClientApp\bin\Debug\ClientApp.exe
+D:\VisualBasicProject\Centralize\ClientApp\ClientApp\bin\Debug\ClientApp.pdb
+D:\VisualBasicProject\Centralize\ClientApp\ClientApp\bin\Debug\ClientApp.xml
+D:\VisualBasicProject\Centralize\ClientApp\ClientApp\bin\Debug\Interop.WMPLib.dll
+D:\VisualBasicProject\Centralize\ClientApp\ClientApp\bin\Debug\AxInterop.WMPLib.dll
+D:\VisualBasicProject\Centralize\ClientApp\ClientApp\obj\Debug\ResolveAssemblyReference.cache
+D:\VisualBasicProject\Centralize\ClientApp\ClientApp\obj\Debug\ClientApp.BlankForm.resources
+D:\VisualBasicProject\Centralize\ClientApp\ClientApp\obj\Debug\ClientApp.Chatroom.resources
+D:\VisualBasicProject\Centralize\ClientApp\ClientApp\obj\Debug\ClientApp.Confirmation.resources
+D:\VisualBasicProject\Centralize\ClientApp\ClientApp\obj\Debug\ClientApp.Customize.resources
+D:\VisualBasicProject\Centralize\ClientApp\ClientApp\obj\Debug\ClientApp.ConfirmPassword.resources
+D:\VisualBasicProject\Centralize\ClientApp\ClientApp\obj\Debug\ClientApp.MainControl.resources
+D:\VisualBasicProject\Centralize\ClientApp\ClientApp\obj\Debug\ClientApp.LockScreen.resources
+D:\VisualBasicProject\Centralize\ClientApp\ClientApp\obj\Debug\ClientApp.Resources.resources
+D:\VisualBasicProject\Centralize\ClientApp\ClientApp\obj\Debug\ClientApp.SwapingForm.resources
+D:\VisualBasicProject\Centralize\ClientApp\ClientApp\obj\Debug\ClientApp.SwapItem.resources
+D:\VisualBasicProject\Centralize\ClientApp\ClientApp\obj\Debug\GenerateResource.read.1.tlog
+D:\VisualBasicProject\Centralize\ClientApp\ClientApp\obj\Debug\GenerateResource.write.1.tlog
+D:\VisualBasicProject\Centralize\ClientApp\ClientApp\obj\Debug\ClientApp.exe
+D:\VisualBasicProject\Centralize\ClientApp\ClientApp\obj\Debug\ClientApp.xml
+D:\VisualBasicProject\Centralize\ClientApp\ClientApp\obj\Debug\ClientApp.pdb
+\\timer2\VisualBasicProject\Centralize\ClientApp\ClientApp\bin\Debug\ClientApp.exe.config
+\\timer2\VisualBasicProject\Centralize\ClientApp\ClientApp\obj\Debug\Interop.WMPLib.dll
+\\timer2\VisualBasicProject\Centralize\ClientApp\ClientApp\obj\Debug\AxInterop.WMPLib.dll
+\\timer2\VisualBasicProject\Centralize\ClientApp\ClientApp\obj\Debug\ClientApp.vbproj.ResolveComReference.cache
+\\timer2\VisualBasicProject\Centralize\ClientApp\ClientApp\obj\Debug\ClientApp.exe
+\\timer2\VisualBasicProject\Centralize\ClientApp\ClientApp\obj\Debug\ClientApp.xml
+\\timer2\VisualBasicProject\Centralize\ClientApp\ClientApp\obj\Debug\ClientApp.pdb
+\\timer2\VisualBasicProject\Centralize\ClientApp\ClientApp\bin\Debug\ClientApp.exe
+\\timer2\VisualBasicProject\Centralize\ClientApp\ClientApp\bin\Debug\ClientApp.pdb
+\\timer2\VisualBasicProject\Centralize\ClientApp\ClientApp\bin\Debug\ClientApp.xml
+\\timer2\VisualBasicProject\Centralize\ClientApp\ClientApp\bin\Debug\Interop.WMPLib.dll
+\\timer2\VisualBasicProject\Centralize\ClientApp\ClientApp\bin\Debug\AxInterop.WMPLib.dll
+\\timer2\VisualBasicProject\Centralize\ClientApp\ClientApp\obj\Debug\ClientApp.BlankForm.resources
+\\timer2\VisualBasicProject\Centralize\ClientApp\ClientApp\obj\Debug\ClientApp.Chatroom.resources
+\\timer2\VisualBasicProject\Centralize\ClientApp\ClientApp\obj\Debug\ClientApp.Confirmation.resources
+\\timer2\VisualBasicProject\Centralize\ClientApp\ClientApp\obj\Debug\ClientApp.Customize.resources
+\\timer2\VisualBasicProject\Centralize\ClientApp\ClientApp\obj\Debug\ClientApp.ConfirmPassword.resources
+\\timer2\VisualBasicProject\Centralize\ClientApp\ClientApp\obj\Debug\ClientApp.MainControl.resources
+\\timer2\VisualBasicProject\Centralize\ClientApp\ClientApp\obj\Debug\ClientApp.LockScreen.resources
+\\timer2\VisualBasicProject\Centralize\ClientApp\ClientApp\obj\Debug\ClientApp.Resources.resources
+\\timer2\VisualBasicProject\Centralize\ClientApp\ClientApp\obj\Debug\ClientApp.SwapingForm.resources
+\\timer2\VisualBasicProject\Centralize\ClientApp\ClientApp\obj\Debug\ClientApp.SwapItem.resources
+\\timer2\VisualBasicProject\Centralize\ClientApp\ClientApp\obj\Debug\ResolveAssemblyReference.cache
+\\timer2\VisualBasicProject\Centralize\ClientApp\ClientApp\obj\Debug\GenerateResource.read.1.tlog
+\\timer2\VisualBasicProject\Centralize\ClientApp\ClientApp\obj\Debug\GenerateResource.write.1.tlog
+D:\VisualBasicProject\Project2019\ClientApp\ClientApp\bin\Debug\ClientApp.exe.config
+D:\VisualBasicProject\Project2019\ClientApp\ClientApp\obj\Debug\Interop.WMPLib.dll
+D:\VisualBasicProject\Project2019\ClientApp\ClientApp\obj\Debug\AxInterop.WMPLib.dll
+D:\VisualBasicProject\Project2019\ClientApp\ClientApp\obj\Debug\ClientApp.vbproj.ResolveComReference.cache
+D:\VisualBasicProject\Project2019\ClientApp\ClientApp\obj\Debug\ClientApp.exe
+D:\VisualBasicProject\Project2019\ClientApp\ClientApp\obj\Debug\ClientApp.xml
+D:\VisualBasicProject\Project2019\ClientApp\ClientApp\obj\Debug\ClientApp.pdb
+D:\VisualBasicProject\Project2019\ClientApp\ClientApp\bin\Debug\ClientApp.exe
+D:\VisualBasicProject\Project2019\ClientApp\ClientApp\bin\Debug\ClientApp.pdb
+D:\VisualBasicProject\Project2019\ClientApp\ClientApp\bin\Debug\ClientApp.xml
+D:\VisualBasicProject\Project2019\ClientApp\ClientApp\bin\Debug\Interop.WMPLib.dll
+D:\VisualBasicProject\Project2019\ClientApp\ClientApp\bin\Debug\AxInterop.WMPLib.dll
+D:\VisualBasicProject\Project2019\ClientApp\ClientApp\obj\Debug\ResolveAssemblyReference.cache
+D:\VisualBasicProject\Project2019\ClientApp\ClientApp\obj\Debug\ClientApp.BlankForm.resources
+D:\VisualBasicProject\Project2019\ClientApp\ClientApp\obj\Debug\ClientApp.Chatroom.resources
+D:\VisualBasicProject\Project2019\ClientApp\ClientApp\obj\Debug\ClientApp.Confirmation.resources
+D:\VisualBasicProject\Project2019\ClientApp\ClientApp\obj\Debug\ClientApp.Customize.resources
+D:\VisualBasicProject\Project2019\ClientApp\ClientApp\obj\Debug\ClientApp.ConfirmPassword.resources
+D:\VisualBasicProject\Project2019\ClientApp\ClientApp\obj\Debug\ClientApp.MainControl.resources
+D:\VisualBasicProject\Project2019\ClientApp\ClientApp\obj\Debug\ClientApp.LockScreen.resources
+D:\VisualBasicProject\Project2019\ClientApp\ClientApp\obj\Debug\ClientApp.Resources.resources
+D:\VisualBasicProject\Project2019\ClientApp\ClientApp\obj\Debug\ClientApp.SwapingForm.resources
+D:\VisualBasicProject\Project2019\ClientApp\ClientApp\obj\Debug\ClientApp.SwapItem.resources
+D:\VisualBasicProject\Project2019\ClientApp\ClientApp\obj\Debug\GenerateResource.read.1.tlog
+D:\VisualBasicProject\Project2019\ClientApp\ClientApp\obj\Debug\GenerateResource.write.1.tlog
+\\timer2\Shared\ClientApp\ClientApp\bin\Debug\ClientApp.exe.config
+\\timer2\Shared\ClientApp\ClientApp\obj\Debug\Interop.WMPLib.dll
+\\timer2\Shared\ClientApp\ClientApp\obj\Debug\AxInterop.WMPLib.dll
+\\timer2\Shared\ClientApp\ClientApp\obj\Debug\ClientApp.vbproj.ResolveComReference.cache
+\\timer2\Shared\ClientApp\ClientApp\obj\Debug\ClientApp.exe
+\\timer2\Shared\ClientApp\ClientApp\obj\Debug\ClientApp.xml
+\\timer2\Shared\ClientApp\ClientApp\obj\Debug\ClientApp.pdb
+\\timer2\Shared\ClientApp\ClientApp\bin\Debug\ClientApp.exe
+\\timer2\Shared\ClientApp\ClientApp\bin\Debug\ClientApp.pdb
+\\timer2\Shared\ClientApp\ClientApp\bin\Debug\ClientApp.xml
+\\timer2\Shared\ClientApp\ClientApp\bin\Debug\Interop.WMPLib.dll
+\\timer2\Shared\ClientApp\ClientApp\bin\Debug\AxInterop.WMPLib.dll
+\\timer2\Shared\ClientApp\ClientApp\obj\Debug\ClientApp.BlankForm.resources
+\\timer2\Shared\ClientApp\ClientApp\obj\Debug\ClientApp.Chatroom.resources
+\\timer2\Shared\ClientApp\ClientApp\obj\Debug\ClientApp.Confirmation.resources
+\\timer2\Shared\ClientApp\ClientApp\obj\Debug\ClientApp.Customize.resources
+\\timer2\Shared\ClientApp\ClientApp\obj\Debug\ClientApp.ConfirmPassword.resources
+\\timer2\Shared\ClientApp\ClientApp\obj\Debug\ClientApp.MainControl.resources
+\\timer2\Shared\ClientApp\ClientApp\obj\Debug\ClientApp.LockScreen.resources
+\\timer2\Shared\ClientApp\ClientApp\obj\Debug\ClientApp.Resources.resources
+\\timer2\Shared\ClientApp\ClientApp\obj\Debug\ClientApp.SwapingForm.resources
+\\timer2\Shared\ClientApp\ClientApp\obj\Debug\ClientApp.SwapItem.resources
+\\timer2\Shared\ClientApp\ClientApp\obj\Debug\ClientApp.vbproj.GenerateResource.Cache
+D:\VisualBasicProject\Project2019\New folder\ClientApp\ClientApp\bin\Debug\ClientApp.exe.config
+D:\VisualBasicProject\Project2019\New folder\ClientApp\ClientApp\obj\Debug\Interop.WMPLib.dll
+D:\VisualBasicProject\Project2019\New folder\ClientApp\ClientApp\obj\Debug\AxInterop.WMPLib.dll
+D:\VisualBasicProject\Project2019\New folder\ClientApp\ClientApp\obj\Debug\ClientApp.vbproj.ResolveComReference.cache
+D:\VisualBasicProject\Project2019\New folder\ClientApp\ClientApp\obj\Debug\ClientApp.exe
+D:\VisualBasicProject\Project2019\New folder\ClientApp\ClientApp\obj\Debug\ClientApp.xml
+D:\VisualBasicProject\Project2019\New folder\ClientApp\ClientApp\obj\Debug\ClientApp.pdb
+D:\VisualBasicProject\Project2019\New folder\ClientApp\ClientApp\bin\Debug\ClientApp.exe
+D:\VisualBasicProject\Project2019\New folder\ClientApp\ClientApp\bin\Debug\ClientApp.pdb
+D:\VisualBasicProject\Project2019\New folder\ClientApp\ClientApp\bin\Debug\ClientApp.xml
+D:\VisualBasicProject\Project2019\New folder\ClientApp\ClientApp\bin\Debug\Interop.WMPLib.dll
+D:\VisualBasicProject\Project2019\New folder\ClientApp\ClientApp\bin\Debug\AxInterop.WMPLib.dll
+D:\VisualBasicProject\Project2019\New folder\ClientApp\ClientApp\obj\Debug\ResolveAssemblyReference.cache
+D:\VisualBasicProject\Project2019\New folder\ClientApp\ClientApp\obj\Debug\ClientApp.BlankForm.resources
+D:\VisualBasicProject\Project2019\New folder\ClientApp\ClientApp\obj\Debug\ClientApp.Chatroom.resources
+D:\VisualBasicProject\Project2019\New folder\ClientApp\ClientApp\obj\Debug\ClientApp.Confirmation.resources
+D:\VisualBasicProject\Project2019\New folder\ClientApp\ClientApp\obj\Debug\ClientApp.Customize.resources
+D:\VisualBasicProject\Project2019\New folder\ClientApp\ClientApp\obj\Debug\ClientApp.ConfirmPassword.resources
+D:\VisualBasicProject\Project2019\New folder\ClientApp\ClientApp\obj\Debug\ClientApp.MainControl.resources
+D:\VisualBasicProject\Project2019\New folder\ClientApp\ClientApp\obj\Debug\ClientApp.LockScreen.resources
+D:\VisualBasicProject\Project2019\New folder\ClientApp\ClientApp\obj\Debug\ClientApp.Resources.resources
+D:\VisualBasicProject\Project2019\New folder\ClientApp\ClientApp\obj\Debug\ClientApp.SwapingForm.resources
+D:\VisualBasicProject\Project2019\New folder\ClientApp\ClientApp\obj\Debug\ClientApp.SwapItem.resources
+D:\VisualBasicProject\Project2019\New folder\ClientApp\ClientApp\obj\Debug\GenerateResource.read.1.tlog
+D:\VisualBasicProject\Project2019\New folder\ClientApp\ClientApp\obj\Debug\GenerateResource.write.1.tlog
+D:\Worc\Project2019\ClientApp\ClientApp\bin\Debug\ClientApp.exe.config
+D:\Worc\Project2019\ClientApp\ClientApp\obj\Debug\Interop.WMPLib.dll
+D:\Worc\Project2019\ClientApp\ClientApp\obj\Debug\AxInterop.WMPLib.dll
+D:\Worc\Project2019\ClientApp\ClientApp\obj\Debug\ClientApp.vbproj.ResolveComReference.cache
+D:\Worc\Project2019\ClientApp\ClientApp\obj\Debug\ClientApp.exe
+D:\Worc\Project2019\ClientApp\ClientApp\obj\Debug\ClientApp.xml
+D:\Worc\Project2019\ClientApp\ClientApp\obj\Debug\ClientApp.pdb

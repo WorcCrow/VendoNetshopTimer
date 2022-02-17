@@ -1,0 +1,33 @@
+C:\Users\PC\AppData\Local\Temporary Projects\LicenseExample\bin\Debug\LicenseExample.exe
+C:\Users\PC\AppData\Local\Temporary Projects\LicenseExample\bin\Debug\LicenseExample.pdb
+C:\Users\PC\AppData\Local\Temporary Projects\LicenseExample\bin\Debug\LicenseExample.xml
+C:\Users\PC\AppData\Local\Temporary Projects\LicenseExample\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\PC\AppData\Local\Temporary Projects\LicenseExample\obj\x86\Debug\LicenseExample.Form1.resources
+C:\Users\PC\AppData\Local\Temporary Projects\LicenseExample\obj\x86\Debug\LicenseExample.Resources.resources
+C:\Users\PC\AppData\Local\Temporary Projects\LicenseExample\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\PC\AppData\Local\Temporary Projects\LicenseExample\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\PC\AppData\Local\Temporary Projects\LicenseExample\obj\x86\Debug\LicenseExample.exe
+C:\Users\PC\AppData\Local\Temporary Projects\LicenseExample\obj\x86\Debug\LicenseExample.xml
+C:\Users\PC\AppData\Local\Temporary Projects\LicenseExample\obj\x86\Debug\LicenseExample.pdb
+D:\VisualBasicProject\Project2019\LicenseExample\LicenseExample\obj\x86\Debug\LicenseExample.exe
+D:\VisualBasicProject\Project2019\LicenseExample\LicenseExample\obj\x86\Debug\LicenseExample.xml
+D:\VisualBasicProject\Project2019\LicenseExample\LicenseExample\obj\x86\Debug\LicenseExample.pdb
+D:\VisualBasicProject\Project2019\LicenseExample\LicenseExample\bin\Debug\LicenseExample.exe
+D:\VisualBasicProject\Project2019\LicenseExample\LicenseExample\bin\Debug\LicenseExample.pdb
+D:\VisualBasicProject\Project2019\LicenseExample\LicenseExample\bin\Debug\LicenseExample.xml
+D:\VisualBasicProject\Project2019\LicenseExample\LicenseExample\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\VisualBasicProject\Project2019\LicenseExample\LicenseExample\obj\x86\Debug\LicenseExample.Form1.resources
+D:\VisualBasicProject\Project2019\LicenseExample\LicenseExample\obj\x86\Debug\LicenseExample.Resources.resources
+D:\VisualBasicProject\Project2019\LicenseExample\LicenseExample\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\VisualBasicProject\Project2019\LicenseExample\LicenseExample\obj\x86\Debug\GenerateResource.write.1.tlog
+\\timer2\VisualBasicProject\Project2019\LicenseExample\LicenseExample\obj\x86\Debug\LicenseExample.exe
+\\timer2\VisualBasicProject\Project2019\LicenseExample\LicenseExample\obj\x86\Debug\LicenseExample.xml
+\\timer2\VisualBasicProject\Project2019\LicenseExample\LicenseExample\obj\x86\Debug\LicenseExample.pdb
+\\timer2\VisualBasicProject\Project2019\LicenseExample\LicenseExample\bin\Debug\LicenseExample.exe
+\\timer2\VisualBasicProject\Project2019\LicenseExample\LicenseExample\bin\Debug\LicenseExample.pdb
+\\timer2\VisualBasicProject\Project2019\LicenseExample\LicenseExample\bin\Debug\LicenseExample.xml
+\\timer2\VisualBasicProject\Project2019\LicenseExample\LicenseExample\obj\x86\Debug\ResolveAssemblyReference.cache
+\\timer2\VisualBasicProject\Project2019\LicenseExample\LicenseExample\obj\x86\Debug\LicenseExample.Form1.resources
+\\timer2\VisualBasicProject\Project2019\LicenseExample\LicenseExample\obj\x86\Debug\LicenseExample.Resources.resources
+\\timer2\VisualBasicProject\Project2019\LicenseExample\LicenseExample\obj\x86\Debug\GenerateResource.read.1.tlog
+\\timer2\VisualBasicProject\Project2019\LicenseExample\LicenseExample\obj\x86\Debug\GenerateResource.write.1.tlog

@@ -1,0 +1,66 @@
+License File Contain
+	#Last Date the License File Opened
+	#Expiration Date
+	#Registration Info
+		Full Name
+		Email
+		Number
+		DateBought
+		AccountType
+	#RegisteredSystem
+		ComputerName
+		CPU Specs
+		MotherBoard Model
+	
+		
+
+Flow
+	OnStartup
+		*License Check
+			Online
+				-Send to Server the License Code
+				-Receive a Latest License File
+				*-Repeat Every Random Hour rand(4,12)
+			
+			Offline
+				-
+		*Load License File
+			LicenseFile
+				-If SystemSpecs Match
+				-Else
+					Suspend All Service
+					Show "Anti Piracy"
+				
+				#The server will receive systemtime from its client and base 
+				-If SystemTime Match with LastAccess Time
+				-Else
+					Suspend All Service
+					Show "Check your system time"
+						
+				-If SystemDate <= Expired
+				-Else
+					Suspend All Service
+					Show "Your License Expired"
+					
+				-If SystemDate >= Expired - 5
+					Show "Notitification/Reminder"
+					
+					
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				

@@ -1,0 +1,36 @@
+C:\Users\PC\AppData\Local\Temporary Projects\CoinProtector\bin\Debug\CoinProtector.exe
+C:\Users\PC\AppData\Local\Temporary Projects\CoinProtector\bin\Debug\CoinProtector.pdb
+C:\Users\PC\AppData\Local\Temporary Projects\CoinProtector\bin\Debug\CoinProtector.xml
+C:\Users\PC\AppData\Local\Temporary Projects\CoinProtector\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\PC\AppData\Local\Temporary Projects\CoinProtector\obj\x86\Debug\CoinProtector.Resources.resources
+C:\Users\PC\AppData\Local\Temporary Projects\CoinProtector\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\PC\AppData\Local\Temporary Projects\CoinProtector\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\PC\AppData\Local\Temporary Projects\CoinProtector\obj\x86\Debug\CoinProtector.exe
+C:\Users\PC\AppData\Local\Temporary Projects\CoinProtector\obj\x86\Debug\CoinProtector.xml
+C:\Users\PC\AppData\Local\Temporary Projects\CoinProtector\obj\x86\Debug\CoinProtector.pdb
+C:\Users\PC\AppData\Local\Temporary Projects\CoinProtector\obj\x86\Debug\CoinProtector.Protector.resources
+D:\VisualBasicProject\Centralize\CoinProtector\CoinProtector\obj\x86\Debug\CoinProtector.exe
+D:\VisualBasicProject\Centralize\CoinProtector\CoinProtector\obj\x86\Debug\CoinProtector.xml
+D:\VisualBasicProject\Centralize\CoinProtector\CoinProtector\obj\x86\Debug\CoinProtector.pdb
+D:\VisualBasicProject\Centralize\CoinProtector\CoinProtector\bin\Debug\CoinProtector.exe
+D:\VisualBasicProject\Centralize\CoinProtector\CoinProtector\bin\Debug\CoinProtector.pdb
+D:\VisualBasicProject\Centralize\CoinProtector\CoinProtector\bin\Debug\CoinProtector.xml
+D:\VisualBasicProject\Centralize\CoinProtector\CoinProtector\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\VisualBasicProject\Centralize\CoinProtector\CoinProtector\obj\x86\Debug\CoinProtector.Protector.resources
+D:\VisualBasicProject\Centralize\CoinProtector\CoinProtector\obj\x86\Debug\CoinProtector.Resources.resources
+D:\VisualBasicProject\Centralize\CoinProtector\CoinProtector\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\VisualBasicProject\Centralize\CoinProtector\CoinProtector\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\VisualBasicProject\Project2019\CoinProtector\CoinProtector\obj\x86\Debug\CoinProtector.xml
+D:\VisualBasicProject\Project2019\CoinProtector\CoinProtector\obj\x86\Debug\CoinProtector.pdb
+D:\VisualBasicProject\Project2019\CoinProtector\CoinProtector\bin\Debug\CoinProtector.exe
+D:\VisualBasicProject\Project2019\CoinProtector\CoinProtector\bin\Debug\CoinProtector.pdb
+D:\VisualBasicProject\Project2019\CoinProtector\CoinProtector\bin\Debug\CoinProtector.xml
+D:\VisualBasicProject\Project2019\CoinProtector\CoinProtector\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\VisualBasicProject\Project2019\CoinProtector\CoinProtector\obj\x86\Debug\CoinProtector.Protector.resources
+D:\VisualBasicProject\Project2019\CoinProtector\CoinProtector\obj\x86\Debug\CoinProtector.Resources.resources
+D:\VisualBasicProject\Project2019\CoinProtector\CoinProtector\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\VisualBasicProject\Project2019\CoinProtector\CoinProtector\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\VisualBasicProject\Project2019\CoinProtector\CoinProtector\obj\x86\Debug\CoinProtector.exe
+D:\Worc\Project2019\CoinProtector\CoinProtector\obj\x86\Debug\CoinProtector.exe
+D:\Worc\Project2019\CoinProtector\CoinProtector\obj\x86\Debug\CoinProtector.xml
+D:\Worc\Project2019\CoinProtector\CoinProtector\obj\x86\Debug\CoinProtector.pdb

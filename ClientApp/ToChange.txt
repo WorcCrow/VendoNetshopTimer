@@ -1,0 +1,4 @@
+Swaping Item Duplicate. You show clear the panel every show
+Remove Button in front of UI
+Remove the time on start
+Show the form when completly loaded

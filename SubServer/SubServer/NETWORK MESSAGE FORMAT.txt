@@ -1,0 +1,11 @@
+*NETWORK Message Format*
+
+SERVER TO CLIENT
+	TIME:3600; //Update Client Time
+	LIST:PC01:192.168.0.101,PC02:192.168.0.102;//Update Available Unit on Client Side
+
+CLIENT TO SERVER
+	CHAT:Message; //Send Chat Message
+	LOGOUT:TRUE; //Request Logout
+	MOVE:LIST //Request List of Available Computer
+	MOVE:192.168.0.101 //Request Transfer Computer

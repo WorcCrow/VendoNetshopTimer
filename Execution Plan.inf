@@ -1,0 +1,70 @@
+One Time Payment
+	5500 Pesos / 3500 Without Box
+	Lifetime
+	Unlimited Unit
+	Unlimited Days Use
+	Software Update Not Included
+
+Monthly Payment
+	5500 Pesos Installation / 3500 Without Box
+	Free First 2 Months
+	Online Support if Available
+	Free Software Update
+	1000 Monthly 
+		Faillure to Pay
+			Notifying the Client to Pay
+			Suspension of Services
+	
+Initial Cost/Project Cost
+	Estimated Cost
+		Universal Coinslot: 650
+		Other Expenses: 500
+		*Software: 2100
+		Arduino: 250
+		Box:2000
+		
+	Real Cost
+		Universal Coinslot: 650
+		*Software: 3100
+		Arduino: 250
+		Box:1500
+		
+Software License Security Flow
+	*Encrypt Server to Coinslot connection to protect from Coinslot Cloning.
+	*Server will verify the license to Server on a certain period of time/scheduled if still valid.
+	*The Server will store the expiration date to data file to be able to expire the product without internet.
+	*Avoid Server to WebServer Communication as possible. You can only request on server every one hour interval.
+	*
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+
+
